@@ -119,15 +119,15 @@ $$
 
 $$
 \begin{aligned}
-{rz}_1 = \frac{b + n^{(1)}_{2q}}{\sqrt{2}} + n^{(2)}_{1q} \\
-{rz}_2 = \frac{a + n^{(1)}_{1i}}{\sqrt{2}} + n^{(2)}_{2i}
+{rz}_1 = \frac{b + n^{(1)}_{2q}}{\sqrt{2}} + n^{(2)}_{1q}, \\
+{rz}_2 = \frac{a + n^{(1)}_{1i}}{\sqrt{2}} + n^{(2)}_{2i},
 \end{aligned}
 $$
 ИЛИ
 $$
 \begin{aligned}
-{rz}_1 = b + n^{(1)}_{2q} + n^{(2)}_{1q} \\
-{rz}_2 = a + n^{(1)}_{1i} + n^{(2)}_{2i}
+{rz}_1 = b + n^{(1)}_{2q} + n^{(2)}_{1q}, \\
+{rz}_2 = a + n^{(1)}_{1i} + n^{(2)}_{2i},
 \end{aligned}
 $$
 
@@ -135,8 +135,15 @@ $$
 
 $$
 \begin{aligned}
-φ^{(Q)}({rz}_1) = b \\
-φ^{(I)}({rz}_2) = a
+φ^{(Q)}({rz}_1) = \frac{b}{\sqrt{2}}, \\
+φ^{(I)}({rz}_2) = \frac{a}{\sqrt{2}}.
+\end{aligned}
+$$
+ИЛИ
+$$
+\begin{aligned}
+φ^{(Q)}({rz}_1) = b, \\
+φ^{(I)}({rz}_2) = a.
 \end{aligned}
 $$
 
